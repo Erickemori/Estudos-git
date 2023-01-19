@@ -36,3 +36,10 @@
 * Residente do [HUB de inteligência Artificial do SENAI](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/) (2022 - ).
 * Professor particular nas horas vagas (2017 - ).
 
+## Trabalhos desenvolvidos :computer:
+
+### Estudos de Bash script 
+</a>
+  <a href="[https://www.instagram.com/erickyukiemori/](https://github.com/Erickemori/StudyProjects/tree/main/Modulo_01)">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png](https://www.pngwing.com/en/free-png-ytrys)" alt="Bash" width = 40/>
+</a>

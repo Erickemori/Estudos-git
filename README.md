@@ -39,7 +39,4 @@
 ## Trabalhos desenvolvidos :computer:
 
 ### Estudos de Bash script 
-</a>
-  <a href="[https://www.instagram.com/erickyukiemori/](https://github.com/Erickemori/StudyProjects/tree/main/Modulo_01)">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png](https://www.pngwing.com/en/free-png-ytrys)" alt="Bash" width = 40/>
-</a>
+<a href="https://github.com/Erickemori/StudyProjects/tree/main/Modulo_01" rel="Bash">![Foo](https://icon-library.com/icon/bash-icon-29.html)</a>

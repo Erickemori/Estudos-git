@@ -33,6 +33,6 @@
 * Doutor em Engenharia Química (2018 - 2022). 
 
 ## Experiência profissional :brain:
-* Residente do HUB de inteligência Artificial do SENAI (2022 - ).
+* Residente do [HUB de inteligência Artificial do SENAI](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/) (2022 - ).
 * Professor particular nas horas vagas (2017 - ).
 

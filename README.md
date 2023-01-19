@@ -39,4 +39,8 @@
 ## Trabalhos desenvolvidos :computer:
 
 ### Estudos de Bash script 
-<a href="https://github.com/Erickemori/StudyProjects/tree/main/Modulo_01" rel="Bash">![Foo](https://icon-library.com/icon/bash-icon-29.html)</a>
+<div id="badges" align="left">
+  <a href="https://github.com/Erickemori/StudyProjects/tree/main/Modulo_01">
+  <img src="https://icon-library.com/icon/bash-icon-29.html" alt="LinkedIn Badge" width = 40/>
+</a>
+

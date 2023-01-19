@@ -41,6 +41,6 @@
 ### Estudos de Bash script 
 <div id="badges" align="left">
   <a href="https://github.com/Erickemori/StudyProjects/tree/main/Modulo_01">
-  <img src="https://icon-library.com/icon/bash-icon-29.html" alt="LinkedIn Badge" width = 40/>
+  <img src="https://cdn3.iconfinder.com/data/icons/developer-files-2-add-on/48/v-55-512.png" alt="LinkedIn Badge" width = 40/>
 </a>
 

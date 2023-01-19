@@ -42,5 +42,11 @@
 <div id="badges" align="left">
   <a href="https://github.com/Erickemori/StudyProjects/tree/main/Modulo_01">
   <img src="https://cdn3.iconfinder.com/data/icons/developer-files-2-add-on/48/v-55-512.png" alt="LinkedIn Badge" width = 40/>
+</a></div>
+    
+### Estudos de Docker
+<div id="badges" align="left">
+  <a href="https://github.com/Erickemori/StudyProjects/tree/main/Modulo_02/Docker/Dockerfile">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="LinkedIn Badge" width = 40/>
 </a>
 

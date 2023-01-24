@@ -50,3 +50,14 @@
   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="LinkedIn Badge" width = 40/>
 </a>
 
+### Estudos de Python:
+#### Jupyter Notebook (Python base)
+<div id="badges" align="left">
+  <a href="https://github.com/Erickemori/StudyProjects/blob/main/Modulo_02/Jupyter/Exercicios_Jupyter%20(Python%20puro).ipynb">
+  <img src="https://invitedresearcher.com/wp-content/uploads/2021/04/JUPYTER_04-INVITED-RESEARCHER-JUPYTERTHEME.png" alt="LinkedIn Badge" width = 40/>
+</a>
+#### Jupyter Notebook (Pandas)
+<div id="badges" align="left">
+  <a href="https://github.com/Erickemori/StudyProjects/blob/main/Modulo_02/Jupyter/Exercicios_Jupyter%20(Pandas).ipynb">
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="LinkedIn Badge" width = 40/>
+</a>

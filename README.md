@@ -55,9 +55,30 @@
 <div id="badges" align="left">
   <a href="https://github.com/Erickemori/StudyProjects/blob/main/Modulo_02/Jupyter/Exercicios_Jupyter%20(Python%20puro).ipynb">
   <img src="https://invitedresearcher.com/wp-content/uploads/2021/04/JUPYTER_04-INVITED-RESEARCHER-JUPYTERTHEME.png" alt="LinkedIn Badge" width = 40/>
-</a></div>  
+</a></div>
+  
 #### Jupyter Notebook (Pandas)  
 <div id="badges" align="left">
   <a href="https://github.com/Erickemori/StudyProjects/blob/main/Modulo_02/Jupyter/Exercicios_Jupyter%20(Pandas).ipynb">
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="LinkedIn Badge" width = 40/>
-</a></div>
+</a></div>  
+
+#### Funções em Python 
+<div id="badges" align="left">
+  <a href="https://github.com/Erickemori/StudyProjects/blob/main/Modulo_02/Jupyter/Exercicios_Func.ipynb">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="LinkedIn Badge" width = 40/>
+</a></div>  
+
+
+#### Análise de Filtros
+<div id="badges" align="left">
+  <a href="https://github.com/Erickemori/StudyProjects/blob/main/Modulo_02/Jupyter/Exercicios_Filtros.ipynb">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="LinkedIn Badge" width = 40/>
+</a></div>  
+
+### Manipulação de Dataframes
+<div id="badges" align="left">
+  <a href="https://github.com/Erickemori/StudyProjects/blob/main/Modulo_02/Jupyter/Exercicios_Aula11.ipynb">
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="LinkedIn Badge" width = 40/>
+</a></div>  
+
